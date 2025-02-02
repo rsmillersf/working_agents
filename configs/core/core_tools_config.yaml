@@ -1,0 +1,7 @@
+# Core tools configuration file
+
+BasicRAGTool:
+  description: "Retrieve context about an information source based on the provided query"
+  servivce:
+    type: "TBD"
+    name: "TBD"
